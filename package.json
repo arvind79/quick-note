@@ -2,7 +2,7 @@
   "name": "quick-note",
   "version": "1.0.0",
   "description": "Quick Note",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
